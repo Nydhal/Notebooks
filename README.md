@@ -6,4 +6,4 @@
 
 [Selmi Impossible Fractal:](https://github.com/Nydhal/Python-Notebooks/blob/master/Selmi_Impossible_Fractal.ipynb) 
 A low resolution projection of the impossible fractal rendered using a 1D-7-cells-4-states Cellular Automaton.
-[Isometric pixel art rendering.](https://pbs.twimg.com/media/D2nb9abUkAAozbP.jpg "Nidhal Selmi - 2009")
+![Isometric pixel art rendering.](https://pbs.twimg.com/media/D2nb9abUkAAozbP.jpg "Nidhal Selmi - 2009")
