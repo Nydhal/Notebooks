@@ -1,4 +1,4 @@
-Collection of notebooks inspired by Peter Norvig's [Pytudes.](https://github.com/norvig/pytudes)
+Collection of notebooks inspired by the [Pytudes](https://github.com/norvig/pytudes) of Google director of research Peter Norvig.
 
 # Notebooks
 |||
