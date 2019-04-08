@@ -1,3 +1,5 @@
+Collection of notebooks inspired by Peter Norvig's [Pytudes.](https://github.com/norvig/pytudes)
+
 # Notebooks
 |||
 |-|-|
